@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html lang="tr">
+
+    <head>
+        <title style>HTML temel komutları </title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1 style="color:aqua">HEAD bölümü komutları</h1>
+        <p>title</p>
+        <p>charset</p>
+        <h2 style="color:blueviolet">BODY bölümü komutları</h2>
+        <p>Hx başlık metinleri</p>
+        <p style ="color:red">rengi değiştirdik</p>
+        <p style="color:green">BENİM ADIM RIDVAN BU BÖLÜMDE HTML İLE İLGİLİ <br>İLK PROJE ÖRNEĞİMİZİ YAPTIK. BUNDAN SONRAKİ <br>PROJELER İÇİN BİR ÖN HAZIRLIK YAPMIŞ OLDUKİ</p>
+    </body>    
+
